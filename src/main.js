@@ -1,0 +1,9 @@
+// src/main.js
+import 'regenerator-runtime';
+import './assets/css/main.css';
+import './scripts/components/app-bar.js';
+import './scripts/components/note-items.js';
+import './scripts/components/note-form.js';
+import './scripts/components/app-footer.js';
+import './scripts/components/loading-indicator.js';
+import './scripts/views/main.js';
